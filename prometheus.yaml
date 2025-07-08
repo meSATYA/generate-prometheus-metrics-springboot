@@ -2,6 +2,8 @@ global:
   scrape_interval: 30s
   evaluation_interval: 25s
 
+### tst line  
+
 scrape_configs:
   - job_name: "prometheus"
     static_configs:
